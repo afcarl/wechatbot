@@ -1,0 +1,1 @@
+C:\Github-MyWork\WeChatBotDemo\wechatbot\bin\Microsoft.NodejsTools.WebRole.dll

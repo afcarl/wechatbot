@@ -1,0 +1,26 @@
+{
+  "name": "wechatbot",
+  "version": "0.0.0",
+  "description": "",
+  "main": "wechatBot.js",
+  "scripts": {
+    "start": "node sample.js"
+  },
+  "author": "markusf",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wtam/wechatbot.git"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "botbuilder": "^0.9.2",
+    "botbuilder-wechat": "^0.2.3",
+    "cookie-parser": "^1.4.3",
+    "debug": "^2.2.0",
+    "express": "^4.13.4",
+    "jade": "^1.11.0",
+    "morgan": "^1.7.0",
+    "serve-favicon": "^2.3.0"
+  }
+}
